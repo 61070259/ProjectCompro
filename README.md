@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
  # เสนอ
 |ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
-|![](img/Aj.%20Oong.png)|![](img/Aj.%20Panwit.png)|
+|![](Aj.%20Oong.png)|![](Aj.%20Panwit.png)|
 
 
 ---
