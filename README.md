@@ -20,12 +20,12 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 
 # Team Member
 
-|ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
+|  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|นาย รพิรัตน์| แป้นบูชา| | 61070180|
-|นาย พีรวิชย์| สาแก้ว| | 61070149|
-|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
-|นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
+||นาย รพิรัตน์| แป้นบูชา| | 61070180|
+||นาย พีรวิชย์| สาแก้ว| | 61070149|
+|![https://www.facebook.com/Karatsugi.Kuraigi](img/puvit2.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
+||นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
 
 
 รายงานโครงงาน วิชา Computer Programming เรื่อง CalDic(tionary)
