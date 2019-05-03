@@ -22,8 +22,8 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|![https://www.facebook.com/raphirat.phanbucha](phee.png)|นาย รพิรัตน์| แป้นบูชา| | 61070180|
-|![https://www.facebook.com/frong.peerawith](frong.png)|นาย พีรวิชย์| สาแก้ว| | 61070149|
+|![https://www.facebook.com/raphirat.phanbucha](phee.png)|นาย รพิรัตน์| แป้นบูชา|[@Raphirat7](https://github.com/Raphirat7)| 61070180|
+|![https://www.facebook.com/frong.peerawith](frong.png)|นาย พีรวิชย์| สาแก้ว|[@beer14643](https://github.com/beer14643)| 61070149|
 |![https://www.facebook.com/Karatsugi.Kuraigi](pu.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
 |![https://www.facebook.com/amornrat.keratiphong](fon.png)|นางสาว อมรรัตน์| กีรติพงศ์|[@61070259](https://github.com/61070259) | 61070259|
 
