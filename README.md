@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=RcfQOJeFC_k&feature=youtu.be
 |:-:|--|------|---------------|---------|
 |![https://www.facebook.com/raphirat.phanbucha](phee.png)|นาย รพิรัตน์| แป้นบูชา| | 61070180|
 |![https://www.facebook.com/frong.peerawith](frong.png)|นาย พีรวิชย์| สาแก้ว| | 61070149|
-|![https://www.facebook.com/Karatsugi.Kuraigi](puvit2.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
+|![https://www.facebook.com/Karatsugi.Kuraigi](pu.png)|นาย ภูวิศ| เชื้อชม|[@kuraigi](https://github.com/kuraigi) | 61070174|
 |![https://www.facebook.com/amornrat.keratiphong](fon.png)|นางสาว อมรรัตน์| กีรติพงศ์| | 61070259|
 
 
